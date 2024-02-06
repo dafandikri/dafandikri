@@ -1,12 +1,12 @@
-<h3 align="left">Hi! I'm Erdafa Andikri</h3>
+<h3 align="center">Hi! I'm Erdafa Andikri</h3>
 
 ###
 
-<p align="left">Currently Pursuing a Bachelor's Degree in Computer Science at University of Indonesia</p>
+<p align="center">Currently Pursuing a Bachelor's Degree in Computer Science at University of Indonesia</p>
 
 ###
 
-<p align="left">I'm, an enthusiastic individual who explores the latest technological developments. Has a passion for continuous learning and acquiring new knowledge in the field of Computer Science, particularly in Data Science, AI, and Machine Learning. <br><br>Excels in Problem-Solving by leveraging Technology and possesses a strong desire to compete and participate in competitions in the world of Technology and Computer Science.<br>I'm eager to contribute to the ever-evolving field of technology.</p>
+<p align="center">I'm, an enthusiastic individual who explores the latest technological developments. Has a passion for continuous learning and acquiring new knowledge in the field of Computer Science, particularly in Data Science, AI, and Machine Learning. <br><br>Excels in Problem-Solving by leveraging Technology and possesses a strong desire to compete and participate in competitions in the world of Technology and Computer Science.<br>I'm eager to contribute to the ever-evolving field of technology.</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I have been learning to code since 11 years old. Here's what i have learned.</p>
+<p align="center">I have been learning to code since 11 years old. Here's what i have learned.</p>
 
 ###
 
